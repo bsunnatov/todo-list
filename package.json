@@ -1,0 +1,28 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "topshiriqlarni boshqarish dasturi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsunnatov/todo-list.git"
+  },
+  "keywords": [
+    "js",
+    "jquery",
+    "bootstrap"
+  ],
+  "author": "b.sunnatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsunnatov/todo-list/issues"
+  },
+  "homepage": "https://github.com/bsunnatov/todo-list#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
